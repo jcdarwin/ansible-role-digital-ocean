@@ -1,5 +1,5 @@
-ansible-role-digital-ocean
-==========================
+mebooks.ansible-role-digital-ocean
+==================================
 
 An Ansible role, available via [Ansible Galaxy](https://galaxy.ansible.com), that provisions a Digital Ocean droplet.
 
