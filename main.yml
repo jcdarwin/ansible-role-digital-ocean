@@ -1,0 +1,5 @@
+---
+# This Playbook provisions a digital ocean server!
+
+- tasks:
+  - include: tasks/main.yml
